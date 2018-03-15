@@ -1,6 +1,6 @@
 {
   "name": "quotes-coins",
-  "version": "0.0.0",
+  "version": "1.0-alpha",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
