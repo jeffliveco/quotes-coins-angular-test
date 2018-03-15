@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Open Sans Condensed','Helvetica Neue',Arial,sans-serif;
+}
+
+.loader {
+  border: .2em solid #0072BB; /* Light grey */
+  border-top: .2em solid #f3f3f3; /* Blue */
+  border-radius: 50%;
+  width: 1em;
+  height: 1em;
+  animation: spin 2s linear infinite;
+  margin: 0 auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

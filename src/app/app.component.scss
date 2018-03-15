@@ -1,0 +1,11 @@
+@import "~sass/_colors";
+
+.cnt-exchange {
+  background-image: url(/assets/background-app.jpeg);
+  height: 100vh;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

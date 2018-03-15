@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="8960a0ba6d61204af4090f002c49c24cd2cfbefe" datatype="html">
+        <source>Insert USD value...</source>
+        <target>Insertar valor en USD...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/exchange/exchange.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="71c77bb8cecdf11ec3eead24dd1ba506573fa9cd" datatype="html">
+        <source>Submit</source>
+        <target>Enviar</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/exchange/exchange.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
